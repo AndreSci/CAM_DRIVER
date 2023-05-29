@@ -1,0 +1,474 @@
+2023-05-29/18.29.01	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-29/18.29.01	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-29/18.29.01	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.29.07	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-29/18.29.09	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.29.09', 'recognition_speed': 1.8836}}
+2023-05-29/18.29.15	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.29.15', 'recognition_speed': 0.05424}}
+2023-05-29/18.31.04	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-29/18.31.04	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-29/18.31.04	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.31.10	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-29/18.31.11	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.31.11', 'recognition_speed': 0.047522}}
+2023-05-29/18.31.17	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.31.17', 'recognition_speed': 0.059347}}
+2023-05-29/18.32.57	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-29/18.32.57	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-29/18.32.57	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.33.03	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-29/18.33.04	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.33.04', 'recognition_speed': 0.049002}}
+2023-05-29/18.33.10	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.33.10', 'recognition_speed': 0.060486}}
+2023-05-29/18.33.20	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-29/18.33.20	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-29/18.33.20	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.33.26	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-29/18.33.27	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.33.27', 'recognition_speed': 0.05035}}
+2023-05-29/18.33.33	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.33.33', 'recognition_speed': 0.052682}}
+2023-05-29/18.33.39	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.33.39', 'recognition_speed': 0.047046}}
+2023-05-29/18.33.45	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.33.45', 'recognition_speed': 0.045967}}
+2023-05-29/18.33.52	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.33.51', 'recognition_speed': 0.052}}
+2023-05-29/18.33.56	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.33.56	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.33.58	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.33.58', 'recognition_speed': 0.056358}}
+2023-05-29/18.34.04	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.34.04', 'recognition_speed': 0.047848}}
+2023-05-29/18.34.10	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.34.10', 'recognition_speed': 0.052837}}
+2023-05-29/18.34.16	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.34.16', 'recognition_speed': 0.055101}}
+2023-05-29/18.34.22	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.34.22', 'recognition_speed': 0.040992}}
+2023-05-29/18.34.26	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.34.26	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.34.28	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.34.28', 'recognition_speed': 0.05114}}
+2023-05-29/18.34.35	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.34.34', 'recognition_speed': 0.048969}}
+2023-05-29/18.34.41	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.34.41', 'recognition_speed': 0.053313}}
+2023-05-29/18.34.47	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.34.47', 'recognition_speed': 0.053881}}
+2023-05-29/18.34.53	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.34.53', 'recognition_speed': 0.055926}}
+2023-05-29/18.34.56	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.34.57	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.34.59	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.34.59', 'recognition_speed': 0.055329}}
+2023-05-29/18.35.05	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.35.05', 'recognition_speed': 0.045272}}
+2023-05-29/18.35.11	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.35.11', 'recognition_speed': 0.056138}}
+2023-05-29/18.35.17	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.35.17', 'recognition_speed': 0.056249}}
+2023-05-29/18.35.24	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.35.23', 'recognition_speed': 0.04651}}
+2023-05-29/18.35.27	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.35.27	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.35.30	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.35.30', 'recognition_speed': 0.050502}}
+2023-05-29/18.35.36	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.35.36', 'recognition_speed': 0.052226}}
+2023-05-29/18.35.42	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.35.42', 'recognition_speed': 0.058526}}
+2023-05-29/18.35.48	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.35.48', 'recognition_speed': 0.049772}}
+2023-05-29/18.35.54	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.35.54', 'recognition_speed': 0.058963}}
+2023-05-29/18.35.57	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.35.57	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.36.00	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.36.00', 'recognition_speed': 0.054072}}
+2023-05-29/18.36.06	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.36.06', 'recognition_speed': 0.05633}}
+2023-05-29/18.36.12	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.36.12', 'recognition_speed': 0.057767}}
+2023-05-29/18.36.19	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.36.18', 'recognition_speed': 0.045999}}
+2023-05-29/18.36.25	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.36.25', 'recognition_speed': 0.043143}}
+2023-05-29/18.36.27	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.36.27	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.36.31	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.36.31', 'recognition_speed': 0.045748}}
+2023-05-29/18.36.37	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.36.37', 'recognition_speed': 0.044007}}
+2023-05-29/18.36.43	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.36.43', 'recognition_speed': 0.054214}}
+2023-05-29/18.36.49	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.36.49', 'recognition_speed': 0.054599}}
+2023-05-29/18.36.56	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.36.55', 'recognition_speed': 0.052398}}
+2023-05-29/18.36.57	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.36.57	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.37.02	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.37.02', 'recognition_speed': 0.050701}}
+2023-05-29/18.37.08	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.37.08', 'recognition_speed': 0.050075}}
+2023-05-29/18.37.14	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.37.14', 'recognition_speed': 0.049707}}
+2023-05-29/18.37.20	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.37.20', 'recognition_speed': 0.048054}}
+2023-05-29/18.37.26	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.37.26', 'recognition_speed': 0.053999}}
+2023-05-29/18.37.27	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.37.27	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.37.32	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.37.32', 'recognition_speed': 0.04696}}
+2023-05-29/18.37.39	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.37.38', 'recognition_speed': 0.040528}}
+2023-05-29/18.37.45	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.37.44', 'recognition_speed': 0.043992}}
+2023-05-29/18.37.51	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.37.51', 'recognition_speed': 0.052462}}
+2023-05-29/18.37.57	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.37.57', 'recognition_speed': 0.045128}}
+2023-05-29/18.37.57	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.37.57	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.38.03	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.38.03', 'recognition_speed': 0.073818}}
+2023-05-29/18.38.09	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.38.09', 'recognition_speed': 0.081365}}
+2023-05-29/18.38.15	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.38.15', 'recognition_speed': 0.067909}}
+2023-05-29/18.38.21	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.38.21', 'recognition_speed': 0.072797}}
+2023-05-29/18.38.27	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.38.27', 'recognition_speed': 0.077867}}
+2023-05-29/18.38.28	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.38.28	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.38.33	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.38.33', 'recognition_speed': 0.067002}}
+2023-05-29/18.38.40	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.38.39', 'recognition_speed': 0.067985}}
+2023-05-29/18.38.46	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.38.45', 'recognition_speed': 0.132333}}
+2023-05-29/18.38.52	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.38.52', 'recognition_speed': 0.083008}}
+2023-05-29/18.38.58	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.38.58	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.38.58	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.38.58', 'recognition_speed': 0.105516}}
+2023-05-29/18.39.04	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.39.04', 'recognition_speed': 0.081521}}
+2023-05-29/18.39.10	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.39.10', 'recognition_speed': 0.082594}}
+2023-05-29/18.39.16	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.39.16', 'recognition_speed': 0.084589}}
+2023-05-29/18.39.22	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.39.22', 'recognition_speed': 0.08116}}
+2023-05-29/18.39.28	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.39.28	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.39.28	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.39.28', 'recognition_speed': 0.061842}}
+2023-05-29/18.39.34	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.39.34', 'recognition_speed': 0.060044}}
+2023-05-29/18.39.41	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.39.40', 'recognition_speed': 0.054699}}
+2023-05-29/18.39.47	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.39.47', 'recognition_speed': 0.053}}
+2023-05-29/18.39.53	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.39.53', 'recognition_speed': 0.049141}}
+2023-05-29/18.39.58	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.39.58	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.39.59	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.39.59', 'recognition_speed': 0.059869}}
+2023-05-29/18.40.05	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.40.05', 'recognition_speed': 0.046787}}
+2023-05-29/18.40.11	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.40.11', 'recognition_speed': 0.050076}}
+2023-05-29/18.40.17	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.40.17', 'recognition_speed': 0.045979}}
+2023-05-29/18.40.23	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.40.23', 'recognition_speed': 0.045116}}
+2023-05-29/18.40.28	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.40.28	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.40.30	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.40.29', 'recognition_speed': 0.04671}}
+2023-05-29/18.40.36	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.40.35', 'recognition_speed': 0.054721}}
+2023-05-29/18.40.42	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.40.42', 'recognition_speed': 0.051507}}
+2023-05-29/18.40.48	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.40.48', 'recognition_speed': 0.042216}}
+2023-05-29/18.40.54	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.40.54', 'recognition_speed': 0.063144}}
+2023-05-29/18.40.58	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.40.58	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.41.00	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.41.00', 'recognition_speed': 0.049509}}
+2023-05-29/18.41.06	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.41.06', 'recognition_speed': 0.077348}}
+2023-05-29/18.41.12	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.41.12', 'recognition_speed': 0.068145}}
+2023-05-29/18.41.18	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.41.18', 'recognition_speed': 0.075663}}
+2023-05-29/18.41.25	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.41.24', 'recognition_speed': 0.065586}}
+2023-05-29/18.41.28	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.41.28	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.41.31	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.41.31', 'recognition_speed': 0.06051}}
+2023-05-29/18.41.37	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.41.37', 'recognition_speed': 0.071349}}
+2023-05-29/18.41.43	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.41.43', 'recognition_speed': 0.069773}}
+2023-05-29/18.41.49	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.41.49', 'recognition_speed': 0.07593}}
+2023-05-29/18.41.55	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.41.55', 'recognition_speed': 0.056004}}
+2023-05-29/18.41.58	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.41.58	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.42.01	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.42.01', 'recognition_speed': 0.045759}}
+2023-05-29/18.42.08	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.42.07', 'recognition_speed': 0.056806}}
+2023-05-29/18.42.14	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.42.14', 'recognition_speed': 0.05544}}
+2023-05-29/18.42.20	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.42.20', 'recognition_speed': 0.044279}}
+2023-05-29/18.42.26	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.42.26', 'recognition_speed': 0.052352}}
+2023-05-29/18.42.28	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.42.28	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.42.32	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.42.32', 'recognition_speed': 0.05119}}
+2023-05-29/18.42.38	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.42.38', 'recognition_speed': 0.05478}}
+2023-05-29/18.42.44	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.42.44', 'recognition_speed': 0.045004}}
+2023-05-29/18.42.51	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.42.50', 'recognition_speed': 0.053048}}
+2023-05-29/18.42.57	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.42.57', 'recognition_speed': 0.049276}}
+2023-05-29/18.42.58	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.42.58	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.43.03	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.43.03', 'recognition_speed': 0.043987}}
+2023-05-29/18.43.09	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.43.09', 'recognition_speed': 0.045523}}
+2023-05-29/18.43.15	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.43.15', 'recognition_speed': 0.060411}}
+2023-05-29/18.43.21	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.43.21', 'recognition_speed': 0.045124}}
+2023-05-29/18.43.27	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.43.27', 'recognition_speed': 0.043934}}
+2023-05-29/18.43.29	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.43.29	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.43.34	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.43.33', 'recognition_speed': 0.08459}}
+2023-05-29/18.43.40	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.43.40', 'recognition_speed': 0.044614}}
+2023-05-29/18.43.46	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.43.46', 'recognition_speed': 0.047406}}
+2023-05-29/18.43.52	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.43.52', 'recognition_speed': 0.054423}}
+2023-05-29/18.43.58	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.43.58', 'recognition_speed': 0.052004}}
+2023-05-29/18.43.59	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.43.59	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.44.05	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.44.04', 'recognition_speed': 0.055865}}
+2023-05-29/18.44.11	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.44.11', 'recognition_speed': 0.045426}}
+2023-05-29/18.44.17	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.44.17', 'recognition_speed': 0.051}}
+2023-05-29/18.44.23	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.44.23', 'recognition_speed': 0.050326}}
+2023-05-29/18.44.29	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.44.29	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.44.30	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.44.30', 'recognition_speed': 0.046377}}
+2023-05-29/18.44.36	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.44.36', 'recognition_speed': 0.051}}
+2023-05-29/18.44.42	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.44.42', 'recognition_speed': 0.053509}}
+2023-05-29/18.44.48	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.44.48', 'recognition_speed': 0.048611}}
+2023-05-29/18.44.54	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.44.54', 'recognition_speed': 0.057537}}
+2023-05-29/18.44.59	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.44.59	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.45.01	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.45.00', 'recognition_speed': 0.059838}}
+2023-05-29/18.45.07	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.45.06', 'recognition_speed': 0.052002}}
+2023-05-29/18.45.13	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.45.13', 'recognition_speed': 0.048515}}
+2023-05-29/18.45.20	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.45.19', 'recognition_speed': 0.048822}}
+2023-05-29/18.45.26	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.45.26', 'recognition_speed': 0.050024}}
+2023-05-29/18.45.29	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.45.29	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.45.32	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.45.32', 'recognition_speed': 0.053518}}
+2023-05-29/18.45.38	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.45.38', 'recognition_speed': 0.04753}}
+2023-05-29/18.45.45	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.45.44', 'recognition_speed': 0.059}}
+2023-05-29/18.45.51	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.45.51', 'recognition_speed': 0.039794}}
+2023-05-29/18.45.57	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.45.57', 'recognition_speed': 0.053875}}
+2023-05-29/18.45.59	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.45.59	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.46.03	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.46.03', 'recognition_speed': 0.049973}}
+2023-05-29/18.46.09	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.46.09', 'recognition_speed': 0.046514}}
+2023-05-29/18.46.16	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.46.16', 'recognition_speed': 0.049062}}
+2023-05-29/18.46.22	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.46.22', 'recognition_speed': 0.04729}}
+2023-05-29/18.46.29	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.46.28', 'recognition_speed': 0.069509}}
+2023-05-29/18.46.29	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.46.29	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.46.35	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.46.35', 'recognition_speed': 0.050154}}
+2023-05-29/18.46.41	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.46.41', 'recognition_speed': 0.052498}}
+2023-05-29/18.46.47	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.46.47', 'recognition_speed': 0.050939}}
+2023-05-29/18.46.53	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.46.53', 'recognition_speed': 0.061188}}
+2023-05-29/18.46.59	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.46.59	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.47.00	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.47.00', 'recognition_speed': 0.051239}}
+2023-05-29/18.47.06	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.47.06', 'recognition_speed': 0.045511}}
+2023-05-29/18.47.12	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.47.12', 'recognition_speed': 0.057352}}
+2023-05-29/18.47.18	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.47.18', 'recognition_speed': 0.049009}}
+2023-05-29/18.47.24	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.47.24', 'recognition_speed': 0.043}}
+2023-05-29/18.47.29	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.47.29	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.47.31	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.47.31', 'recognition_speed': 0.050513}}
+2023-05-29/18.47.37	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.47.37', 'recognition_speed': 0.05451}}
+2023-05-29/18.47.44	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.47.44', 'recognition_speed': 0.051915}}
+2023-05-29/18.47.50	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.47.50', 'recognition_speed': 0.039112}}
+2023-05-29/18.47.56	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.47.56', 'recognition_speed': 0.041363}}
+2023-05-29/18.47.59	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.47.59	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.48.03	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.48.02', 'recognition_speed': 0.040508}}
+2023-05-29/18.48.09	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.48.09', 'recognition_speed': 0.043926}}
+2023-05-29/18.48.15	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.48.15', 'recognition_speed': 0.037301}}
+2023-05-29/18.48.21	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.48.21', 'recognition_speed': 0.041786}}
+2023-05-29/18.48.28	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.48.27', 'recognition_speed': 0.045}}
+2023-05-29/18.48.30	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.48.30	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.48.34	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.48.34', 'recognition_speed': 0.038513}}
+2023-05-29/18.48.40	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.48.40', 'recognition_speed': 0.04269}}
+2023-05-29/18.48.46	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.48.46', 'recognition_speed': 0.044615}}
+2023-05-29/18.48.53	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.48.52', 'recognition_speed': 0.040621}}
+2023-05-29/18.48.59	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.48.59', 'recognition_speed': 0.034512}}
+2023-05-29/18.49.00	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.49.00	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.49.05	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.49.05', 'recognition_speed': 0.034003}}
+2023-05-29/18.49.12	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.49.12', 'recognition_speed': 0.043527}}
+2023-05-29/18.49.18	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.49.18', 'recognition_speed': 0.038002}}
+2023-05-29/18.49.24	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.49.24', 'recognition_speed': 0.039003}}
+2023-05-29/18.49.30	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.49.30	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.49.30	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.49.30', 'recognition_speed': 0.037762}}
+2023-05-29/18.49.36	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.49.36', 'recognition_speed': 0.04104}}
+2023-05-29/18.49.43	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.49.43', 'recognition_speed': 0.041098}}
+2023-05-29/18.49.49	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.49.49', 'recognition_speed': 0.035557}}
+2023-05-29/18.49.55	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.49.55', 'recognition_speed': 0.040001}}
+2023-05-29/18.50.00	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.50.00	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.50.01	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.50.01', 'recognition_speed': 0.036142}}
+2023-05-29/18.50.08	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.50.07', 'recognition_speed': 0.039022}}
+2023-05-29/18.50.14	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.50.13', 'recognition_speed': 0.039977}}
+2023-05-29/18.50.20	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.50.20', 'recognition_speed': 0.043151}}
+2023-05-29/18.50.26	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.50.26', 'recognition_speed': 0.041001}}
+2023-05-29/18.50.30	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.50.31	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.50.32	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.50.32', 'recognition_speed': 0.040561}}
+2023-05-29/18.50.39	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.50.38', 'recognition_speed': 0.037}}
+2023-05-29/18.50.45	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.50.45', 'recognition_speed': 0.040511}}
+2023-05-29/18.50.51	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.50.51', 'recognition_speed': 0.040498}}
+2023-05-29/18.50.58	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.50.57', 'recognition_speed': 0.032988}}
+2023-05-29/18.51.01	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.51.01	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.51.04	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.51.04', 'recognition_speed': 0.030871}}
+2023-05-29/18.51.10	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.51.10', 'recognition_speed': 0.040589}}
+2023-05-29/18.51.16	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.51.16', 'recognition_speed': 0.051511}}
+2023-05-29/18.51.23	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.51.22', 'recognition_speed': 0.055998}}
+2023-05-29/18.51.29	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.51.29', 'recognition_speed': 0.057074}}
+2023-05-29/18.51.31	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.51.31	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.51.35	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.51.35', 'recognition_speed': 0.044994}}
+2023-05-29/18.51.41	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.51.41', 'recognition_speed': 0.050918}}
+2023-05-29/18.51.48	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.51.48', 'recognition_speed': 0.043606}}
+2023-05-29/18.51.54	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.51.54', 'recognition_speed': 0.054001}}
+2023-05-29/18.52.01	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.52.01	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.52.01	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.52.01', 'recognition_speed': 0.04768}}
+2023-05-29/18.52.07	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.52.07', 'recognition_speed': 0.044}}
+2023-05-29/18.52.13	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.52.13', 'recognition_speed': 0.051404}}
+2023-05-29/18.52.20	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.52.20', 'recognition_speed': 0.046}}
+2023-05-29/18.52.26	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.52.26', 'recognition_speed': 0.051162}}
+2023-05-29/18.52.31	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.52.31	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.52.32	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.52.32', 'recognition_speed': 0.050178}}
+2023-05-29/18.52.38	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.52.38', 'recognition_speed': 0.048326}}
+2023-05-29/18.52.44	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.52.44', 'recognition_speed': 0.048512}}
+2023-05-29/18.52.50	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.52.50', 'recognition_speed': 0.048035}}
+2023-05-29/18.52.57	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.52.56', 'recognition_speed': 0.05}}
+2023-05-29/18.53.01	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.53.01	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.53.03	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.53.03', 'recognition_speed': 0.052511}}
+2023-05-29/18.53.10	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.53.09', 'recognition_speed': 0.051068}}
+2023-05-29/18.53.16	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.53.16', 'recognition_speed': 0.054091}}
+2023-05-29/18.53.23	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.53.22', 'recognition_speed': 0.056599}}
+2023-05-29/18.53.29	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.53.29', 'recognition_speed': 0.048543}}
+2023-05-29/18.53.31	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.53.31	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.53.35	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.53.35', 'recognition_speed': 0.052655}}
+2023-05-29/18.53.41	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.53.41', 'recognition_speed': 0.047514}}
+2023-05-29/18.53.48	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.53.48', 'recognition_speed': 0.058021}}
+2023-05-29/18.53.54	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.53.54', 'recognition_speed': 0.058504}}
+2023-05-29/18.54.01	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.54.00', 'recognition_speed': 0.046657}}
+2023-05-29/18.54.01	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.54.01	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.54.07	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.54.07', 'recognition_speed': 0.044862}}
+2023-05-29/18.54.14	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.54.14', 'recognition_speed': 0.044115}}
+2023-05-29/18.54.20	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.54.20', 'recognition_speed': 0.051623}}
+2023-05-29/18.54.27	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.54.26', 'recognition_speed': 0.046413}}
+2023-05-29/18.54.31	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.54.32	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.54.33	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.54.33', 'recognition_speed': 0.055022}}
+2023-05-29/18.54.39	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.54.39', 'recognition_speed': 0.045037}}
+2023-05-29/18.54.46	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.54.45', 'recognition_speed': 0.036802}}
+2023-05-29/18.54.52	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.54.52', 'recognition_speed': 0.042558}}
+2023-05-29/18.54.58	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.54.58', 'recognition_speed': 0.037082}}
+2023-05-29/18.55.02	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.55.02	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.55.05	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.55.05', 'recognition_speed': 0.045594}}
+2023-05-29/18.55.11	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.55.11', 'recognition_speed': 0.038311}}
+2023-05-29/18.55.17	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.55.17', 'recognition_speed': 0.04292}}
+2023-05-29/18.55.24	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.55.24', 'recognition_speed': 0.039513}}
+2023-05-29/18.55.30	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.55.30', 'recognition_speed': 0.040375}}
+2023-05-29/18.55.32	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.55.32	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.55.36	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.55.36', 'recognition_speed': 0.032774}}
+2023-05-29/18.55.43	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.55.42', 'recognition_speed': 0.044583}}
+2023-05-29/18.55.49	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.55.49', 'recognition_speed': 0.043095}}
+2023-05-29/18.55.55	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.55.55', 'recognition_speed': 0.040244}}
+2023-05-29/18.56.02	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.56.02', 'recognition_speed': 0.037994}}
+2023-05-29/18.56.02	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.56.02	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.56.08	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.56.08', 'recognition_speed': 0.029624}}
+2023-05-29/18.56.14	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.56.14', 'recognition_speed': 0.043072}}
+2023-05-29/18.56.21	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.56.20', 'recognition_speed': 0.040609}}
+2023-05-29/18.56.27	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.56.27', 'recognition_speed': 0.035552}}
+2023-05-29/18.56.32	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.56.32	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.56.34	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.56.34', 'recognition_speed': 0.038513}}
+2023-05-29/18.56.40	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.56.40', 'recognition_speed': 0.041122}}
+2023-05-29/18.56.47	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.56.47', 'recognition_speed': 0.042596}}
+2023-05-29/18.56.53	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.56.53', 'recognition_speed': 0.042611}}
+2023-05-29/18.56.59	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.56.59', 'recognition_speed': 0.048511}}
+2023-05-29/18.57.02	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.57.02	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.57.05	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.57.05', 'recognition_speed': 0.036697}}
+2023-05-29/18.57.12	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.57.11', 'recognition_speed': 0.038}}
+2023-05-29/18.57.18	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.57.18', 'recognition_speed': 0.044231}}
+2023-05-29/18.57.25	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.57.24', 'recognition_speed': 0.039549}}
+2023-05-29/18.57.31	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.57.31', 'recognition_speed': 0.03726}}
+2023-05-29/18.57.32	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.57.33	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.57.37	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.57.37', 'recognition_speed': 0.041277}}
+2023-05-29/18.57.43	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.57.43', 'recognition_speed': 0.042296}}
+2023-05-29/18.57.50	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.57.49', 'recognition_speed': 0.039872}}
+2023-05-29/18.57.56	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.57.56', 'recognition_speed': 0.043689}}
+2023-05-29/18.58.02	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.58.02', 'recognition_speed': 0.04016}}
+2023-05-29/18.58.03	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.58.03	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.58.08	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.58.08', 'recognition_speed': 0.044226}}
+2023-05-29/18.58.15	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.58.15', 'recognition_speed': 0.038296}}
+2023-05-29/18.58.21	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.58.21', 'recognition_speed': 0.03859}}
+2023-05-29/18.58.27	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.58.27', 'recognition_speed': 0.042256}}
+2023-05-29/18.58.33	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.58.33	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.58.34	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.58.34', 'recognition_speed': 0.044546}}
+2023-05-29/18.58.40	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.58.40', 'recognition_speed': 0.041911}}
+2023-05-29/18.58.46	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.58.46', 'recognition_speed': 0.056499}}
+2023-05-29/18.58.52	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.58.52', 'recognition_speed': 0.050991}}
+2023-05-29/18.58.58	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.58.58', 'recognition_speed': 0.055783}}
+2023-05-29/18.59.03	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.59.03	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.59.05	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.59.04', 'recognition_speed': 0.044818}}
+2023-05-29/18.59.11	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.59.10', 'recognition_speed': 0.049155}}
+2023-05-29/18.59.17	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.59.17', 'recognition_speed': 0.043215}}
+2023-05-29/18.59.23	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.59.23', 'recognition_speed': 0.047991}}
+2023-05-29/18.59.29	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.59.29', 'recognition_speed': 0.055763}}
+2023-05-29/18.59.33	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/18.59.33	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/18.59.36	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.59.35', 'recognition_speed': 0.048}}
+2023-05-29/18.59.42	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.59.42', 'recognition_speed': 0.061518}}
+2023-05-29/18.59.48	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.59.48', 'recognition_speed': 0.044014}}
+2023-05-29/18.59.54	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/18.59.54', 'recognition_speed': 0.052115}}
+2023-05-29/19.00.01	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.00.00', 'recognition_speed': 0.047572}}
+2023-05-29/19.00.03	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/19.00.03	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/19.00.07	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.00.07', 'recognition_speed': 0.052253}}
+2023-05-29/19.00.13	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.00.13', 'recognition_speed': 0.047515}}
+2023-05-29/19.00.20	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.00.20', 'recognition_speed': 0.052244}}
+2023-05-29/19.00.26	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.00.26', 'recognition_speed': 0.054717}}
+2023-05-29/19.00.32	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.00.32', 'recognition_speed': 0.055827}}
+2023-05-29/19.00.34	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/19.00.34	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/19.00.39	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.00.39', 'recognition_speed': 0.046081}}
+2023-05-29/19.00.45	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.00.45', 'recognition_speed': 0.050367}}
+2023-05-29/19.00.51	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.00.51', 'recognition_speed': 0.060266}}
+2023-05-29/19.00.58	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.00.58', 'recognition_speed': 0.046687}}
+2023-05-29/19.01.04	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/19.01.04	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/19.01.04	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.01.04', 'recognition_speed': 0.056523}}
+2023-05-29/19.01.10	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.01.10', 'recognition_speed': 0.054218}}
+2023-05-29/19.01.16	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.01.16', 'recognition_speed': 0.046147}}
+2023-05-29/19.01.23	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.01.23', 'recognition_speed': 0.041652}}
+2023-05-29/19.01.29	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.01.29', 'recognition_speed': 0.044313}}
+2023-05-29/19.01.34	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/19.01.34	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/19.01.35	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.01.35', 'recognition_speed': 0.051396}}
+2023-05-29/19.01.41	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.01.41', 'recognition_speed': 0.0509}}
+2023-05-29/19.01.48	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.01.48', 'recognition_speed': 0.050298}}
+2023-05-29/19.01.54	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.01.54', 'recognition_speed': 0.057112}}
+2023-05-29/19.02.01	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.02.01', 'recognition_speed': 0.042839}}
+2023-05-29/19.02.04	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/19.02.04	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/19.02.07	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.02.07', 'recognition_speed': 0.037073}}
+2023-05-29/19.02.13	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.02.13', 'recognition_speed': 0.037756}}
+2023-05-29/19.02.19	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.02.19', 'recognition_speed': 0.044085}}
+2023-05-29/19.02.26	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.02.25', 'recognition_speed': 0.039544}}
+2023-05-29/19.02.32	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.02.31', 'recognition_speed': 0.039001}}
+2023-05-29/19.02.34	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/19.02.34	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/19.02.38	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.02.38', 'recognition_speed': 0.03944}}
+2023-05-29/19.02.44	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.02.44', 'recognition_speed': 0.03917}}
+2023-05-29/19.02.50	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.02.50', 'recognition_speed': 0.039971}}
+2023-05-29/19.02.57	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.02.56', 'recognition_speed': 0.036335}}
+2023-05-29/19.03.03	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.03.03', 'recognition_speed': 0.036868}}
+2023-05-29/19.03.05	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/19.03.05	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/19.03.09	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.03.09', 'recognition_speed': 0.032951}}
+2023-05-29/19.03.15	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.03.15', 'recognition_speed': 0.045714}}
+2023-05-29/19.03.21	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.03.21', 'recognition_speed': 0.038002}}
+2023-05-29/19.03.28	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.03.28', 'recognition_speed': 0.036176}}
+2023-05-29/19.03.34	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.03.34', 'recognition_speed': 0.047015}}
+2023-05-29/19.03.35	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/19.03.35	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/19.03.40	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.03.40', 'recognition_speed': 0.03659}}
+2023-05-29/19.03.46	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.03.46', 'recognition_speed': 0.037058}}
+2023-05-29/19.03.53	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.03.53', 'recognition_speed': 0.038989}}
+2023-05-29/19.04.00	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.04.00', 'recognition_speed': 0.041347}}
+2023-05-29/19.04.05	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/19.04.05	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/19.04.06	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.04.06', 'recognition_speed': 0.0388}}
+2023-05-29/19.04.12	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.04.12', 'recognition_speed': 0.039998}}
+2023-05-29/19.04.18	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.04.18', 'recognition_speed': 0.03699}}
+2023-05-29/19.04.24	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.04.23', 'recognition_speed': 0.032823}}
+2023-05-29/19.04.31	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.04.31', 'recognition_speed': 0.044001}}
+2023-05-29/19.04.35	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/19.04.35	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/19.04.37	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.04.35', 'recognition_speed': 0.047539}}
+2023-05-29/19.04.44	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.04.43', 'recognition_speed': 0.041918}}
+2023-05-29/19.04.50	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.04.50', 'recognition_speed': 0.051168}}
+2023-05-29/19.04.56	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.04.56', 'recognition_speed': 0.060367}}
+2023-05-29/19.05.02	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.05.02', 'recognition_speed': 0.058511}}
+2023-05-29/19.05.05	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/19.05.05	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/19.05.09	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.05.08', 'recognition_speed': 0.063218}}
+2023-05-29/19.05.15	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.05.15', 'recognition_speed': 0.099107}}
+2023-05-29/19.05.21	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.05.21', 'recognition_speed': 0.077817}}
+2023-05-29/19.05.27	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.05.27', 'recognition_speed': 0.071789}}
+2023-05-29/19.05.33	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.05.33', 'recognition_speed': 0.070489}}
+2023-05-29/19.05.35	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/19.05.35	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/19.05.39	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.05.39', 'recognition_speed': 0.064761}}
+2023-05-29/19.05.45	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.05.45', 'recognition_speed': 0.06638}}
+2023-05-29/19.05.51	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.05.51', 'recognition_speed': 0.054575}}
+2023-05-29/19.05.58	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.05.57', 'recognition_speed': 0.0532}}
+2023-05-29/19.06.04	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.06.03', 'recognition_speed': 0.128178}}
+2023-05-29/19.06.05	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/19.06.05	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-29/19.06.10	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.06.10', 'recognition_speed': 0.056114}}
+2023-05-29/19.06.16	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.06.16', 'recognition_speed': 0.056729}}
+2023-05-29/19.06.22	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.06.22', 'recognition_speed': 0.077212}}
+2023-05-29/19.06.28	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.06.28', 'recognition_speed': 0.068205}}
+2023-05-29/19.06.34	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-29/19.06.34', 'recognition_speed': 0.054893}}
+2023-05-29/19.06.35	WARNING	ThreadVideoRTSP.start()	cam9 - Камера отключена: rtsp://admin:admin@192.168.48.188
+2023-05-29/19.06.36	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188

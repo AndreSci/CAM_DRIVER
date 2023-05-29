@@ -1,0 +1,102 @@
+2023-05-26/15.19.19	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-26/15.19.19	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/15.19.19	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/15.19.24	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/15.19.26	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/15.19.27	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-26/15.19.27', 'recognition_speed': 0.065498}}
+2023-05-26/15.19.33	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-26/15.19.33', 'recognition_speed': 0.071514}}
+2023-05-26/15.19.39	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-26/15.19.39', 'recognition_speed': 0.065509}}
+2023-05-26/15.19.45	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-26/15.19.45', 'recognition_speed': 0.082821}}
+2023-05-26/15.19.51	SUCCESS	client	Request: {'cam8': {'numbers': ['K765YP174'], 'parsed': False, 'date_time': '2023-05-26/15.19.49', 'recognition_speed': 0.087765}}
+2023-05-26/15.28.40	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-26/15.28.40	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/15.28.40	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/15.28.46	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/15.28.47	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/15.59.38	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-26/15.59.38	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/15.59.38	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/15.59.44	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/15.59.45	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.03.20	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-26/16.03.20	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.03.20	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.03.26	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.04.44	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-26/16.04.44	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.04.44	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.04.50	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.04.51	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.05.22	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.05.22', 'recognition_speed': 0.084451}}
+2023-05-26/16.05.24	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P199'], 'parsed': False, 'date_time': '2023-05-26/16.05.24', 'recognition_speed': 0.073905}}
+2023-05-26/16.05.30	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.05.30', 'recognition_speed': 0.074633}}
+2023-05-26/16.05.36	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.05.36', 'recognition_speed': 0.093474}}
+2023-05-26/16.07.25	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-26/16.07.25	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.07.25	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.07.31	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.07.32	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.07.34	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.07.34', 'recognition_speed': 0.058988}}
+2023-05-26/16.07.40	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.07.40', 'recognition_speed': 0.060632}}
+2023-05-26/16.07.47	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-26/16.07.47	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.07.47	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.07.53	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.07.54	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.07.56	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.07.56', 'recognition_speed': 0.095357}}
+2023-05-26/16.13.12	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-26/16.13.12	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.13.12	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.13.18	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.13.19	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.13.21	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.13.21', 'recognition_speed': 0.066676}}
+2023-05-26/16.13.49	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-26/16.13.49	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.13.49	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.13.55	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.13.56	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.13.58	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.13.58', 'recognition_speed': 0.070003}}
+2023-05-26/16.17.44	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-26/16.17.44	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.17.44	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.17.50	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.17.51	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.17.53	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.17.53', 'recognition_speed': 0.062768}}
+2023-05-26/16.17.59	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.17.59', 'recognition_speed': 0.065764}}
+2023-05-26/16.18.05	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.18.05', 'recognition_speed': 0.085105}}
+2023-05-26/16.18.11	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.18.11', 'recognition_speed': 0.088574}}
+2023-05-26/16.18.17	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.18.17', 'recognition_speed': 0.076599}}
+2023-05-26/16.18.23	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.18.23', 'recognition_speed': 0.080717}}
+2023-05-26/16.18.30	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.18.29', 'recognition_speed': 0.078676}}
+2023-05-26/16.18.36	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.18.35', 'recognition_speed': 0.085351}}
+2023-05-26/16.18.42	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.18.41', 'recognition_speed': 0.076584}}
+2023-05-26/16.25.59	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-26/16.25.59	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.25.59	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.26.04	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.26.06	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.26.08	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.26.07', 'recognition_speed': 0.062416}}
+2023-05-26/16.26.14	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.26.13', 'recognition_speed': 0.064536}}
+2023-05-26/16.26.20	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.26.19', 'recognition_speed': 0.078309}}
+2023-05-26/16.26.26	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.26.26', 'recognition_speed': 0.075331}}
+2023-05-26/16.36.18	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-26/16.36.18	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.36.18	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.36.24	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.36.25	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.36.27	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.36.27', 'recognition_speed': 0.06}}
+2023-05-26/16.36.33	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.36.33', 'recognition_speed': 0.062531}}
+2023-05-26/16.36.39	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.36.39', 'recognition_speed': 0.074816}}
+2023-05-26/16.36.45	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.36.45', 'recognition_speed': 0.076523}}
+2023-05-26/16.36.51	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.36.51', 'recognition_speed': 0.075902}}
+2023-05-26/16.36.58	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.36.57', 'recognition_speed': 0.07751}}
+2023-05-26/16.48.26	SUCCESS	client	Клиент RASPBERRY_CAM начал свою работу
+2023-05-26/16.48.26	EVENT	Попытка подключиться к камере: cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.48.27	EVENT	Попытка подключиться к камере: cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.48.32	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam8 - rtsp://admin:5682881@192.168.48.113:554/stream1
+2023-05-26/16.48.34	SUCCESS	ThreadVideoRTSP.start()	Создано подключение к cam9 - rtsp://admin:admin@192.168.48.188
+2023-05-26/16.48.35	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.48.35', 'recognition_speed': 0.067366}}
+2023-05-26/16.48.41	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.48.41', 'recognition_speed': 0.082055}}
+2023-05-26/16.48.47	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.48.47', 'recognition_speed': 0.081319}}
+2023-05-26/16.48.54	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.48.53', 'recognition_speed': 0.09473}}
+2023-05-26/16.49.00	SUCCESS	client	Request: {'cam9': {'numbers': ['B9990P19'], 'parsed': False, 'date_time': '2023-05-26/16.49.00', 'recognition_speed': 0.085525}}
