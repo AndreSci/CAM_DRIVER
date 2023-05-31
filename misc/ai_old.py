@@ -187,7 +187,7 @@ class AiClass(DetectNumber):
                                 delta_time = (end_time - start_time).total_seconds()
 
                                 with self.lock_change_nums:
-                                    self.recon_numbers[key] = {'camera': key, 'number': number, 'parsed': False,
+                                    self.recon_numbers[key] = {'numbers': [number, ], 'parsed': False,
                                                                'date_time': end_time,
                                                                'recognition_speed': delta_time}
 

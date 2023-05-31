@@ -8,9 +8,9 @@ LEN_FOR_NUMBER = 7
 
 DEBUG_MODE = False
 
-# SERVER_HOST = '192.168.48.39'
-SERVER_HOST = '127.0.0.1'
-SERVER_PORT = '80'
+SERVER_HOST = '192.168.48.39'
+# SERVER_HOST = '127.0.0.1'
+SERVER_PORT = '8080'
 
 # Для обработки повторных номеров в N секунд.
 CAR_REPEAT = 5

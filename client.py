@@ -32,24 +32,23 @@ def count_duplicate_in(number, time_recon):
     else:
         DUPLICATE_NUMBERS[number] = {'date_time': time_recon}
 
-    # print(DUPLICATE_NUMBERS)
-
     return result
 
 
-def duplicate_numbers(recon_numbers: dict):
+def duplicate_numbers(recon_numbers: dict) -> list:
     """ Принимает в себя словарь распознанных номеров, проверяет на повторы по времени и изменяет его """
 
-    result = dict()
+    ret_value = []
 
     for it in recon_numbers:
 
-        for number in recon_numbers[it]['numbers']:
-            if count_duplicate_in(number, recon_numbers[it]['date_time']):
-                result[it] = recon_numbers[it].copy()
-                result[it]['date_time'] = str(recon_numbers[it]['date_time'].strftime("%Y-%m-%d/%H.%M.%S"))
+        if count_duplicate_in(recon_numbers[it]['number'], recon_numbers[it]['date_time']):
+            result = recon_numbers[it].copy()
+            result['date_time'] = str(recon_numbers[it]['date_time'].strftime("%Y-%m-%d/%H.%M.%S"))
 
-    return result
+            ret_value.append(result)
+
+    return ret_value
 
 
 def client(logger: Logger, settings_ini: SettingsIni):
@@ -66,29 +65,26 @@ def client(logger: Logger, settings_ini: SettingsIni):
 
     while True:
 
-        number = plate_recon.take_recon_numbers()
+        numbers = plate_recon.take_recon_numbers()
 
-        request_data = {"RESULT": 'EMPTY', 'DESC': '', 'DATA': dict()}
+        if numbers:
+            numbers = duplicate_numbers(numbers)
+            request_data = {"result": 'SUCCESS', 'desc': '', 'data': numbers}
 
-        if number:
-            number = duplicate_numbers(number)
-            request_data = {"RESULT": 'SUCCESS', 'DESC': '', 'DATA': number}
-
-            if number:
+            if numbers:
                 # вместо request пока что принты
-                logger.add_log(f"SUCCESS\tclient\tRequest: {number}")  # log
+                logger.add_log(f"SUCCESS\tclient\tRequest: {numbers}")  # log
 
-        else:
-            pass
+                try:
+                    # req = requests.get(f'http://{consts.SERVER_HOST}:{consts.SERVER_PORT}/OnHeartBeat',
+                    #                    json=request_data, timeout=1)
+                    req = requests.get(f'http://{consts.SERVER_HOST}:{consts.SERVER_PORT}/event/number_on_frame',
+                                       json=request_data, timeout=1)
+                    print(req.json())
 
-        try:
-            req = requests.get(f'http://{consts.SERVER_HOST}:{consts.SERVER_PORT}/OnHeartBeat',
-                               json=request_data, timeout=1)
-
-            print(req.json())
-        except Exception as ex:
-            print(f"Тайм-аут ошибка: {ex}")
-            traceback.print_exc()
+                except Exception as ex:
+                    print(f"Тайм-аут ошибка: {ex}")
+                    # traceback.print_exc()
 
         time.sleep(2)
 

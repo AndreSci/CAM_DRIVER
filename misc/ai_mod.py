@@ -52,33 +52,58 @@ class DetectNumber:
         return res
         # Boxes object for bbox outputs
 
-    def recon_plate(self, frame) -> list:
+    def recon_plate(self, frames) -> dict:
         """ Перед отправкой в нейронку нужно произвести с ней манипуляции"""
         # run the YOLO model on the frame
 
-        recon_items = self.model_plates(frame, verbose=False, stream=False)
+        list_for_recon = []
 
-        biggest = list()
+        for key in frames:
+            list_for_recon.append(frames[key])
 
-        for data in recon_items[0].boxes.data.tolist():
-            # extract the confidence (i.e., probability) associated with the detection
-            confidence = data[4]
+        if not list_for_recon:
+            return {}
 
-            # filter out weak detections by ensuring the
-            # confidence is greater than the minimum confidence
-            if float(confidence) < CONFIDENCE_THRESHOLD:
-                continue
+        recon_items = self.model_plates(list_for_recon, verbose=False, stream=False)
 
-            # if the confidence is greater than the minimum confidence,
-            # draw the bounding box on the frame
-            xmin, ymin, xmax, ymax = int(data[0]), int(data[1]), int(data[2]), int(data[3])
+        biggest_list = list()
 
-            if not biggest:
-                biggest = [xmin, ymin, xmax, ymax]
-            elif (biggest[2] - biggest[0]) < (xmax - xmin):
-                biggest = [xmin, ymin, xmax, ymax]
+        # Проходим по всем распознанным объектам
+        for i in range(len(list_for_recon)):
+            biggest = list()
 
-        return biggest
+            if len(list_for_recon) < 1:
+                break
+
+            for data in recon_items[i].boxes.data.tolist():
+                # extract the confidence (i.e., probability) associated with the detection
+                confidence = data[4]
+
+                # filter out weak detections by ensuring the
+                # confidence is greater than the minimum confidence
+                if float(confidence) < CONFIDENCE_THRESHOLD:
+                    continue
+
+                # if the confidence is greater than the minimum confidence,
+                # draw the bounding box on the frame
+                xmin, ymin, xmax, ymax = int(data[0]), int(data[1]), int(data[2]), int(data[3])
+
+                if not biggest:
+                    biggest = [xmin, ymin, xmax, ymax]
+                elif (biggest[2] - biggest[0]) < (xmax - xmin):
+                    biggest = [xmin, ymin, xmax, ymax]
+
+            biggest_list.append(biggest)
+
+        index = 0
+        ret_dict = dict()
+
+        # Создаем словарь по камерам куда добавляем координаты найденных номеров
+        for key in frames:
+            ret_dict[key] = biggest_list[index]
+            index += 1
+
+        return ret_dict
 
     def recon_number(self, cam_name) -> str:
         """ Возвращает номер в виде списка элементов номера """
@@ -166,8 +191,11 @@ class AiClass(DetectNumber):
                     with self.allow_rec_lock:
                         copy_allow = self.allow_recognition.copy()
 
-                    for key in copy_allow:
-                        self.detections[key] = self.recon_plate(self.cams_frame[key])
+                    # for key in copy_allow:
+                    #     self.detections[key] = self.recon_plate(self.cams_frame[key])
+
+                    # Отправляем все кадры на распознание
+                    self.detections = self.recon_plate(self.cams_frame)
 
                     # Показываем кадр результат тестов +5%-10% к времени распознания
                     for key in copy_allow:
@@ -187,7 +215,7 @@ class AiClass(DetectNumber):
                                 delta_time = (end_time - start_time).total_seconds()
 
                                 with self.lock_change_nums:
-                                    self.recon_numbers[key] = {'camera': key, 'number': number, 'parsed': False,
+                                    self.recon_numbers[key] = {'numbers': [number, ], 'parsed': False,
                                                                'date_time': end_time,
                                                                'recognition_speed': delta_time}
 
