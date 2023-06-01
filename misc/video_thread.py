@@ -51,7 +51,7 @@ class ThreadVideoRTSP:
     def __start(self, logger: Logger):
         """ Функция подключения и поддержки связи с камерой """
 
-        capture = cv2.VideoCapture(self.url, cv2.CAP_FFMPEG)
+        capture = cv2.VideoCapture(self.url, cv2.CAP_ANY)
 
         if capture.isOpened():
             logger.add_log(f"SUCCESS\tThreadVideoRTSP.start()\t"
@@ -60,10 +60,21 @@ class ThreadVideoRTSP:
         frame_fail_cnt = 0
         frame_index = 0
 
+        last_frame_time = time.time()
+
         try:
             while True:
+
                 if not capture.isOpened():
+                    logger.add_log(f"ERROR\tThreadVideoRTSP.__start\t{self.cam_name} - capture = cv2.VideoCapture "
+                                   f"метод .isOpen() вернул False")
                     break
+                if time.time() - last_frame_time > 2:
+                    logger.add_log(f"ERROR\tThreadVideoRTSP.__start\t{self.cam_name} - Слишком много времени прошло "
+                                   f"с последнего кадра")
+                    break
+
+                last_frame_time = time.time()
 
                 ret, frame = capture.read()  # читать кадр
 
